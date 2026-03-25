@@ -1,8 +1,15 @@
 <Solution>
   <Folder Name="/docs/" />
+  <Folder Name="/docs/00.overview/" />
+  <Folder Name="/docs/01.architecture/" />
+  <Folder Name="/docs/02.adr/" />
+  <Folder Name="/docs/03.development/" />
   <Folder Name="/docs/04.building-blocks/">
     <File Path="docs/04..building-blocks/shared-kernel-overview.md" />
   </Folder>
+  <Folder Name="/docs/05.modules/" />
+  <Folder Name="/docs/06.ai/" />
+  <Folder Name="/docs/07.frontend/" />
   <Folder Name="/Solution Items/">
     <File Path="Directory.Build.props" />
     <File Path="Directory.Packages.props" />
