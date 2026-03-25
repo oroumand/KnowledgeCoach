@@ -4,10 +4,7 @@
   <Folder Name="/docs/01.architecture/" />
   <Folder Name="/docs/02.adr/" />
   <Folder Name="/docs/03.development/" />
-  <Folder Name="/docs/04.building-blocks/">
-    <File Path="docs/04..building-blocks/shared-kernel-overview.md" />
-    <File Path="framework-vs-sharedkernel.md" />
-  </Folder>
+  <Folder Name="/docs/04.building-blocks/" />
   <Folder Name="/docs/05.modules/" />
   <Folder Name="/docs/06.ai/" />
   <Folder Name="/docs/07.frontend/" />

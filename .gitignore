@@ -80,3 +80,6 @@ temp/
 *.db
 *.sqlite
 *.sqlite3
+
+
+.vs/
