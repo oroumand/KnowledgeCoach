@@ -5,5 +5,10 @@
     <File Path="Directory.Packages.props" />
   </Folder>
   <Folder Name="/src/" />
+  <Folder Name="/src/00.BuildingBlocks/">
+    <Project Path="src/00.BuildingBlocks/KnowledgeCoach.BuildingBlocks.Contracts/KnowledgeCoach.BuildingBlocks.Contracts.csproj" />
+    <Project Path="src/00.BuildingBlocks/KnowledgeCoach.BuildingBlocks.Framework/KnowledgeCoach.BuildingBlocks.Framework.csproj" />
+    <Project Path="src/00.BuildingBlocks/KnowledgeCoach.BuildingBlocks.SharedKernel/KnowledgeCoach.BuildingBlocks.SharedKernel.csproj" />
+  </Folder>
   <Folder Name="/tests/" />
 </Solution>

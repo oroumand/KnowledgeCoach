@@ -1,0 +1,12 @@
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\bin\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.deps.json
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\bin\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.dll
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\bin\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.pdb
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\obj\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\obj\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.AssemblyInfoInputs.cache
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\obj\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.AssemblyInfo.cs
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\obj\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.csproj.CoreCompileInputs.cache
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\obj\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.sourcelink.json
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\obj\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.dll
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\obj\Debug\net10.0\refint\KnowledgeCoach.BuildingBlocks.SharedKernel.dll
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\obj\Debug\net10.0\KnowledgeCoach.BuildingBlocks.SharedKernel.pdb
+G:\KnowledgeCoach\src\00.BuildingBlocks\KnowledgeCoach.BuildingBlocks.SharedKernel\obj\Debug\net10.0\ref\KnowledgeCoach.BuildingBlocks.SharedKernel.dll
