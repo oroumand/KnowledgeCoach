@@ -12,7 +12,8 @@
   </Folder>
   <Folder Name="/src/03.Endpoints/" />
   <Folder Name="/src/03.Endpoints/Host/">
-    <Project Path="src/03.Endpoints/Host/KnowledgeCoach.Api/KnowledgeCoach.Api.csproj" />
+    <Project Path="src/03.Endpoints/Host/KnowledgeCoach.Api/KnowledgeCoach.Endpoints.Host.Api.csproj" />
+    <Project Path="src/03.Endpoints/Host/KnowledgeCoach.Endpoints.Host.Web/KnowledgeCoach.Endpoints.Host.Web.csproj" Id="3c3e80e8-6f2a-4f77-880c-f220067a8c7b" />
   </Folder>
   <Folder Name="/tests/" />
 </Solution>

@@ -121,9 +121,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Api.csproj",
-      "projectName": "KnowledgeCoach.Api",
-      "projectPath": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Api.csproj",
+      "projectUniqueName": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Endpoints.Host.Api.csproj",
+      "projectName": "KnowledgeCoach.Endpoints.Host.Api",
+      "projectPath": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Endpoints.Host.Api.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
       "outputPath": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\obj\\",
       "projectStyle": "PackageReference",
@@ -180,6 +180,8 @@
           }
         },
         "centralPackageVersions": {
+          "Microsoft.AspNetCore.Components.WebAssembly": "10.0.4",
+          "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "10.0.4",
           "Microsoft.AspNetCore.OpenApi": "10.0.4"
         },
         "imports": [
