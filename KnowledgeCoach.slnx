@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/docs/" />
+  <Folder Name="/docs/04.building-blocks/">
+    <File Path="docs/04..building-blocks/shared-kernel-overview.md" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path="Directory.Build.props" />
     <File Path="Directory.Packages.props" />
