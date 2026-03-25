@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnowledgeCoach.BuildingBlocks.SharedKernel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c19c56f36397159a80d8cc4c562960fb88eaca8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e5573a7d4a0a2ac18db163168130c097290663b")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnowledgeCoach.BuildingBlocks.SharedKernel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnowledgeCoach.BuildingBlocks.SharedKernel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
