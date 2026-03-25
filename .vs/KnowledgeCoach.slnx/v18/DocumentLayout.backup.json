@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\KnowledgeCoach\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3E80E8-6F2A-4F77-880C-F220067A8C7B}|src\\03.Endpoints\\Host\\KnowledgeCoach.Endpoints.Host.Web\\KnowledgeCoach.Endpoints.Host.Web.csproj|g:\\knowledgecoach\\src\\03.endpoints\\host\\knowledgecoach.endpoints.host.web\\knowledgecoach.endpoints.host.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3C3E80E8-6F2A-4F77-880C-F220067A8C7B}|src\\03.Endpoints\\Host\\KnowledgeCoach.Endpoints.Host.Web\\KnowledgeCoach.Endpoints.Host.Web.csproj|solutionrelative:src\\03.endpoints\\host\\knowledgecoach.endpoints.host.web\\knowledgecoach.endpoints.host.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD8738A2-4AEF-AA5C-192A-DC1DDFC565E2}|src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Endpoints.Host.Api.csproj|g:\\knowledgecoach\\src\\03.endpoints\\host\\knowledgecoach.api\\knowledgecoach.endpoints.host.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD8738A2-4AEF-AA5C-192A-DC1DDFC565E2}|src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Endpoints.Host.Api.csproj|solutionrelative:src\\03.endpoints\\host\\knowledgecoach.api\\knowledgecoach.endpoints.host.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KnowledgeCoach.Endpoints.Host.Web",
-              "DocumentMoniker": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Endpoints.Host.Web\\KnowledgeCoach.Endpoints.Host.Web.csproj",
-              "RelativeDocumentMoniker": "src\\03.Endpoints\\Host\\KnowledgeCoach.Endpoints.Host.Web\\KnowledgeCoach.Endpoints.Host.Web.csproj",
-              "ToolTip": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Endpoints.Host.Web\\KnowledgeCoach.Endpoints.Host.Web.csproj",
-              "RelativeToolTip": "src\\03.Endpoints\\Host\\KnowledgeCoach.Endpoints.Host.Web\\KnowledgeCoach.Endpoints.Host.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T05:50:47.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KnowledgeCoach.Api.csproj",
-              "DocumentMoniker": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Endpoints.Host.Api.csproj",
-              "RelativeDocumentMoniker": "src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Endpoints.Host.Api.csproj",
-              "ToolTip": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Endpoints.Host.Api.csproj",
-              "RelativeToolTip": "src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Endpoints.Host.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T05:42:54.465Z",
-              "EditorCaption": ""
             }
           ]
         }
