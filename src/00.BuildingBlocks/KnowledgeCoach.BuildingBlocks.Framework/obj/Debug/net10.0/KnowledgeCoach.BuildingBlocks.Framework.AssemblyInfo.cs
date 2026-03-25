@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnowledgeCoach.BuildingBlocks.Framework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12db680ec36bc7305be8a7660e44178ef22b702e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd6534f98a231c12ff42c072dac9c245e256cc70")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnowledgeCoach.BuildingBlocks.Framework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnowledgeCoach.BuildingBlocks.Framework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
