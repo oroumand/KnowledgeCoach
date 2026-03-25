@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "G:\\KnowledgeCoach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E2A557D-22A4-AB31-EB62-76785756B27D}|src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.SharedKernel\\KnowledgeCoach.BuildingBlocks.SharedKernel.csproj|g:\\knowledgecoach\\src\\00.buildingblocks\\knowledgecoach.buildingblocks.sharedkernel\\knowledgecoach.buildingblocks.sharedkernel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3E2A557D-22A4-AB31-EB62-76785756B27D}|src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.SharedKernel\\KnowledgeCoach.BuildingBlocks.SharedKernel.csproj|solutionrelative:src\\00.buildingblocks\\knowledgecoach.buildingblocks.sharedkernel\\knowledgecoach.buildingblocks.sharedkernel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|G:\\KnowledgeCoach\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5F6DB4-7587-DD26-E708-A6A8881D6D49}|src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Framework\\KnowledgeCoach.BuildingBlocks.Framework.csproj|g:\\knowledgecoach\\src\\00.buildingblocks\\knowledgecoach.buildingblocks.framework\\knowledgecoach.buildingblocks.framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7B5F6DB4-7587-DD26-E708-A6A8881D6D49}|src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Framework\\KnowledgeCoach.BuildingBlocks.Framework.csproj|solutionrelative:src\\00.buildingblocks\\knowledgecoach.buildingblocks.framework\\knowledgecoach.buildingblocks.framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4A2ACBC-190A-20D2-2551-39A8DF95EDAD}|src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Contracts\\KnowledgeCoach.BuildingBlocks.Contracts.csproj|g:\\knowledgecoach\\src\\00.buildingblocks\\knowledgecoach.buildingblocks.contracts\\knowledgecoach.buildingblocks.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D4A2ACBC-190A-20D2-2551-39A8DF95EDAD}|src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Contracts\\KnowledgeCoach.BuildingBlocks.Contracts.csproj|solutionrelative:src\\00.buildingblocks\\knowledgecoach.buildingblocks.contracts\\knowledgecoach.buildingblocks.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AD8738A2-4AEF-AA5C-192A-DC1DDFC565E2}|src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Api.csproj|g:\\knowledgecoach\\src\\03.endpoints\\host\\knowledgecoach.api\\knowledgecoach.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD8738A2-4AEF-AA5C-192A-DC1DDFC565E2}|src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Api.csproj|solutionrelative:src\\03.endpoints\\host\\knowledgecoach.api\\knowledgecoach.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KnowledgeCoach.BuildingBlocks.SharedKernel",
-              "DocumentMoniker": "G:\\KnowledgeCoach\\src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.SharedKernel\\KnowledgeCoach.BuildingBlocks.SharedKernel.csproj",
-              "RelativeDocumentMoniker": "src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.SharedKernel\\KnowledgeCoach.BuildingBlocks.SharedKernel.csproj",
-              "ToolTip": "G:\\KnowledgeCoach\\src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.SharedKernel\\KnowledgeCoach.BuildingBlocks.SharedKernel.csproj",
-              "RelativeToolTip": "src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.SharedKernel\\KnowledgeCoach.BuildingBlocks.SharedKernel.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T05:31:05.089Z",
+              "Title": "Directory.Packages.props",
+              "DocumentMoniker": "G:\\KnowledgeCoach\\Directory.Packages.props",
+              "RelativeDocumentMoniker": "Directory.Packages.props",
+              "ToolTip": "G:\\KnowledgeCoach\\Directory.Packages.props",
+              "RelativeToolTip": "Directory.Packages.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-25T05:43:59.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "KnowledgeCoach.BuildingBlocks.Framework",
-              "DocumentMoniker": "G:\\KnowledgeCoach\\src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Framework\\KnowledgeCoach.BuildingBlocks.Framework.csproj",
-              "RelativeDocumentMoniker": "src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Framework\\KnowledgeCoach.BuildingBlocks.Framework.csproj",
-              "ToolTip": "G:\\KnowledgeCoach\\src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Framework\\KnowledgeCoach.BuildingBlocks.Framework.csproj",
-              "RelativeToolTip": "src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Framework\\KnowledgeCoach.BuildingBlocks.Framework.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "KnowledgeCoach.Api",
+              "DocumentMoniker": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Api.csproj",
+              "RelativeDocumentMoniker": "src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Api.csproj",
+              "ToolTip": "G:\\KnowledgeCoach\\src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Api.csproj",
+              "RelativeToolTip": "src\\03.Endpoints\\Host\\KnowledgeCoach.Api\\KnowledgeCoach.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T05:31:01.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KnowledgeCoach.BuildingBlocks.Contracts",
-              "DocumentMoniker": "G:\\KnowledgeCoach\\src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Contracts\\KnowledgeCoach.BuildingBlocks.Contracts.csproj",
-              "RelativeDocumentMoniker": "src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Contracts\\KnowledgeCoach.BuildingBlocks.Contracts.csproj",
-              "ToolTip": "G:\\KnowledgeCoach\\src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Contracts\\KnowledgeCoach.BuildingBlocks.Contracts.csproj",
-              "RelativeToolTip": "src\\00.BuildingBlocks\\KnowledgeCoach.BuildingBlocks.Contracts\\KnowledgeCoach.BuildingBlocks.Contracts.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T05:30:53.121Z",
+              "WhenOpened": "2026-03-25T05:42:54.465Z",
               "EditorCaption": ""
             }
           ]

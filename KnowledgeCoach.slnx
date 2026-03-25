@@ -10,5 +10,9 @@
     <Project Path="src/00.BuildingBlocks/KnowledgeCoach.BuildingBlocks.Framework/KnowledgeCoach.BuildingBlocks.Framework.csproj" />
     <Project Path="src/00.BuildingBlocks/KnowledgeCoach.BuildingBlocks.SharedKernel/KnowledgeCoach.BuildingBlocks.SharedKernel.csproj" />
   </Folder>
+  <Folder Name="/src/03.Endpoints/" />
+  <Folder Name="/src/03.Endpoints/Host/">
+    <Project Path="src/03.Endpoints/Host/KnowledgeCoach.Api/KnowledgeCoach.Api.csproj" />
+  </Folder>
   <Folder Name="/tests/" />
 </Solution>
